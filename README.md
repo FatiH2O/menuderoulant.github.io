@@ -1,4 +1,4 @@
-## Revisiting Graph Homophily Measures Semaine II 
+## Menu déroulant en HTML
 
 Menu déroulant simple codé à l'issu d'un cours introductif sur HTML.
 
